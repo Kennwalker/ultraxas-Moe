@@ -56,7 +56,7 @@
     },
     "BOT_URL": {
       "description": "Image or video url for your bot menu",
-      "value": "https://res.cloudinary.com/dptzpfgtm/image/upload/v1753723388/whatsapp_uploads/wqyliw4kzvrulh0bmg10.jpg",
+      "value": "https://i.postimg.cc/WbJnHzrq/IMG-4230.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -76,12 +76,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "12136061765",
       "required": false 
     },
     "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "☠️,🚀,🌎,✅",
       "required": false 
     },
     "AUTO_REACT": {
@@ -96,12 +96,12 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "ultra",
+      "value": "MoE",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "ULTRAXAS-MD;;;H4sIAAAAAAAAA6VUy47jRBT9l9omGsexHTuRWsJ27MRJO+83YlGxy3bFz5TLSZxRkBAbNGuQRkhIafgA2CAh+Bi6EeI7kJPumREMQyO8Kldd3Trn1Dn3JYhinKIuykHjJUgI3kGKiiXNEwQaQMkcBxFQBjakEDTAuG9MxPZQCsOxwymC5eurUWdktmoKUxf4+QR2Am/Eb/XqzLwBpzJIsnWArQ80ZA/y5igeNG67jG/ZfoL5FZPoglybapEcHoKUj81oftiknH8DTkVHiAmOXC3xUIgIDLooH0BMnge/1fcxVHt2071dWDKVVuvSuC6487UblDCtVAZG198M9Dycyc+Dv5gd+75bseaSsyU7Aoe1xZpldM52Vgtx2ez4y3o22WqV2YK/wk+xGyHbsFFEMc2frbultDF37DiMtcgZc2Vud7ua3rE9q8W2+k4YxuPbccVLea49fR7witK2BAOO5KhkTWCtMumaWwKNA2eN+6OVHi9jLq/M5NBYLN8FPiBPXvH/i+7YQOrhMBuu/GyYz1rudO+WjP0xF1gmbzFtLi0p4rQ5md36w2fahuCsa3nMcj1v65geN1nkz/pHMen30sBMAk+accq2x/Kq9RY+pBn5EMrcCVcjwydKzU0F67D342k9yHyxuQq4bC5vsGyUQmGmTuZH3bNzEre9nL3VLKYeQ2YV9jvRtN8dtnnfSYTUVleIZ4gi31wY+Sg3bNBgT2VAkItTSiDFcVTs8VwZQHs3RhZB9KIu0AY8rdZKuNdtW82RWgt0ak47Wr7S672DtDDUWNQp2fuBOr0BZZCQ2EJpiuw2TmlMchOlKXRRChofXx6q4ExQGFPUwXahXpXlapUaK9aEj9IXew/SFCbJiwhRUAYOiUMTgQYlGSqDSz0n87KgqpyuqHWdl6qSJooFqfB6zwSHKKUwTECDFQWxykmCVDl9UgYROtCrYwqeHFsGDiYpnUZZEsTQfrLT0yG0rDiL6DiPLLVYIAIa72wjSnHkpgWZLILE8vAOqQV20HBgkKI30iKC7Cf8j+NCje3ixafNOS+Z9QEosBeN/ipHg+P+rkgEi2Lw6cPdVw/nHx/Orx7uPr//5Yv7u6/vz9/en1//9tM3xe/57uH86tfvH+4+uz9/d39+XRSeX11L/vjhy99/Ppux9r97gDIILqirvCjUqgIniKxQqV6QFwenN4IV/GxEIQ5S0ACqqYYZvze17nxbt6atlmy6surK4K3ATxG5ehDvt2ulogaVlrHgszxbL/mW0hpbfpfdzHZH62AmPDeAnuT7N+9pUgwtnMPmqmnO+xlXU3RNtjxH2A49LXI03TGUXR2bVjg6VLftWfOQsZTQ9mDb05exnawQtZEW6fJO0YZdlZlLm7FfWqRekacysNEOW+jdy6RNsh8vWww5SE2t2psupntr43b6iGUyhoW0JG2DGWwmHNyMuwlTaxJvM9krXOquaRW18lZP9wYCSokULgaywWhGbjX31/BehkfwOLTxY67w5dfB6DIDHz3yb1a64i4MXzmV32nxOFT/YTApy7Qb7m05sRWsl25TElb7ijvyo45Kl+xa4sxJF/WO1djpdMCpSF4SQOrEJAQNkIZrDMqAxFkRHyNy4g/cpCqGoQyvrAOYUvltJN+TcpG/Vg1InLRh6hWunInidlrkK5eTZEwhfUo4kIvvltHB6U9DOsJCdggAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
